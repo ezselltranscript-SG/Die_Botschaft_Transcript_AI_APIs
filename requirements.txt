@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pdf2image
+pillow
+pypdf2
+fuzzywuzzy
+python-levenshtein
+supabase
+python-dotenv
